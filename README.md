@@ -8,8 +8,12 @@ Notebooks should be run in this order:
 * 4_graph.ipynb
 
 ## Data
-fftoday_{years}_pos{position}.csv
+Each stage outputs to their own folder, such as:
 
+* data/1/fftoday_{years}_pos{position}.csv
+* data/2/{position}.csv
+
+Position numbering:
 * 20 = RB
 * 30 = WR
 * 40 = TE
