@@ -10,6 +10,6 @@ Notebooks should be run in this order:
 ## Data
 fftoday_{years}_pos{position}.csv
 
-*20 = RB
-*30 = WR
-*40 = TE
+* 20 = RB
+* 30 = WR
+* 40 = TE
