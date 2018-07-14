@@ -1,4 +1,4 @@
-team,abbr,conf
+team,abbr,div
 Saints,NO,NFC S
 Panthers,CAR,NFC S
 Falcons,ATL,NFC S
@@ -7,10 +7,13 @@ Vikings,MIN,NFC N
 Lions,DET,NFC N
 Packers,GB,NFC N
 Bears,CHI,NFC N
+Rams,LA,NFC W
 Rams,LAR,NFC W
+Rams,STL,NFC W
 Seahawks,SEA,NFC W
 Cardinals,ARI,NFC W
 49ers,SF,NFC W
+Jaguars,JAC,AFC S
 Jaguars,JAX,AFC S
 Titans,TEN,AFC S
 Colts,IND,AFC S
@@ -21,6 +24,7 @@ Bengals,CIN,AFC N
 Browns,CLE,AFC N
 Chiefs,KC,AFC W
 Chargers,LAC,AFC W
+Chargers,SD,AFC W
 Raiders,OAK,AFC W
 Broncos,DEN,AFC W
 Eagles,PHI,NFC E
