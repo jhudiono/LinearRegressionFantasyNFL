@@ -2,10 +2,23 @@
 
 ## Notebooks
 Notebooks should be run in this order:
-* 1_web_scraper.ipynb
-* 2_prepare_data.ipynb
+
+#### 1. Web scraping: 
+* DataScraper.ipynb
+
+#### 2. Data massaging:
+* Prepare_GamesData.ipynb
+* Prepare_InjuryData.ipynb
+* Prepare_MergeData.ipynb
+
+#### 3. Regression:
 * 3_process_data.ipynb
+
+#### 4. Visualization:
 * 4_graph.ipynb
+
+#### Other:
+* correlations/*
 
 ## Data
 Each stage outputs to their own folder, such as:
