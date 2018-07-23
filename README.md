@@ -5,6 +5,7 @@ Notebooks should be run in this order:
 
 #### 1. Web scraping: 
 * DataScraper.ipynb
+* DataScraper_Injury.ipynb
 
 #### 2. Data massaging:
 * Prepare_GamesData.ipynb
@@ -12,17 +13,15 @@ Notebooks should be run in this order:
 * Prepare_MergeData.ipynb
 
 #### 3. Regression:
-* 3_process_data.ipynb
+* Regression_CV.ipynb
 
 #### 4. Visualization:
-* 4_graph.ipynb
+* GraphData.ipynb
 
 #### Other:
-* correlations/*
+* correlations/*: Graphing pair plots and correlation heatmaps to explore feature relationships. 
 
 ## Data
-Each stage outputs to their own folder, such as:
-
 * data/1/fftoday_{years}_pos{position}.csv
 * data/2/{position}.csv
 
