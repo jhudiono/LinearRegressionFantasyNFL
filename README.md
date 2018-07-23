@@ -20,6 +20,7 @@ Notebooks should be run in this order:
 
 #### Other:
 * correlations/*: Graphing pair plots and correlation heatmaps to explore feature relationships. 
+* AverageAsBaseline.ipynb: Calculate MSEs and visualize residuals for baseline models.
 
 ## Data
 * data/1/fftoday_{years}_pos{position}.csv
